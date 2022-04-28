@@ -1,3 +1,2 @@
-# Assignment
-Username:admin
+#Username:admin
 Password:admin
